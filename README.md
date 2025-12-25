@@ -5,9 +5,6 @@
 
 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/b.aniania?igsh=cmJwdTAxcjZldHk5&utm_source=qr">
-    <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a> <br/>
   <a href="https://web.telegram.org/k/#@seylor_mun">
     <img src="https://img.shields.io/badge/telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
